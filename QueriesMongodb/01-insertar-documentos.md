@@ -81,3 +81,4 @@ _Insertar multiples Documentos_
 | $lte | Menor o igual |
 | $ne | Todos los elementos que no sean iguales | 
 | $nin | Ninguno de los valores del Arreglo |
+
